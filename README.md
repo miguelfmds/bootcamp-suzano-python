@@ -8,3 +8,13 @@
 <p>  
     Bootcamp fruto da parceria entre a DIO (Digital Innovation One) e a Suzano, focado nos primeiros passos na linguagem Python. Aprendemos a criar projetos variados, além de também utilizarmos o Microsoft Copilot e o Azure.  
 </p>
+
+<h2>O que utilizamos durante o bootcamp?</h2>
+<div>
+    <p align = "center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=python,vscode,github,azure" />
+        </a>
+      </p>
+    </div>
+</div>
